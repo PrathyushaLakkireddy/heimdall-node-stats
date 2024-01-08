@@ -4,6 +4,6 @@ heimdall_lcd_endpoint = "http://localhost:1317"
 
 
 [stats_details]
-secret_key = "hello"  // secret key to connect with net stats
-node = "heimdall_node" // name of your node
-net_stats_ip = "localhost:3000" // Ip to connect with netstats
+secret_key = "hello"  
+node = "heimdall_node" 
+net_stats_ip = "localhost:3000" 
